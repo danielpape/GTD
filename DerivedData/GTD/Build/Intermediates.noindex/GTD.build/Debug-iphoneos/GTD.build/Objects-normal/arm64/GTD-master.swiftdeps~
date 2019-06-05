@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "d6dc1b56529ee43b70d5f78f79fe2e48"
+build_time: [1559761024, 466478000]
+inputs:
+  "/Users/dan/Developer/iOS/GTD/GTD/TodoViewController.swift": [1559761024, 407555111]
+  "/Users/dan/Developer/iOS/GTD/GTD/AppDelegate.swift": [1559755298, 702251038]
+  "/Users/dan/Developer/iOS/GTD/DerivedData/GTD/Build/Intermediates.noindex/GTD.build/Debug-iphoneos/GTD.build/DerivedSources/CoreDataGenerated/GTD/Items+CoreDataClass.swift": [1559760769, 387869272]
+  "/Users/dan/Developer/iOS/GTD/DerivedData/GTD/Build/Intermediates.noindex/GTD.build/Debug-iphoneos/GTD.build/DerivedSources/CoreDataGenerated/GTD/Items+CoreDataProperties.swift": [1559760769, 388921011]
+  "/Users/dan/Developer/iOS/GTD/DerivedData/GTD/Build/Intermediates.noindex/GTD.build/Debug-iphoneos/GTD.build/DerivedSources/CoreDataGenerated/GTD/GTD+CoreDataModel.swift": [1559760769, 384416803]

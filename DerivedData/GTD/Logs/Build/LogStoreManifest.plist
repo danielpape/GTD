@@ -5,6 +5,391 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>058F8E09-AB6C-4C61-84CB-FFAD8B586D02</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>058F8E09-AB6C-4C61-84CB-FFAD8B586D02.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GTD project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GTD</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GTD</string>
+			<key>timeStartedRecording</key>
+			<real>581453769.62116694</real>
+			<key>timeStoppedRecording</key>
+			<real>581453771.92808199</real>
+			<key>title</key>
+			<string>Build GTD</string>
+			<key>uniqueIdentifier</key>
+			<string>058F8E09-AB6C-4C61-84CB-FFAD8B586D02</string>
+		</dict>
+		<key>1D27C434-E5FE-4D9E-BD93-580729E8A1AB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1D27C434-E5FE-4D9E-BD93-580729E8A1AB.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GTD project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GTD</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GTD</string>
+			<key>timeStartedRecording</key>
+			<real>581453569.08574498</real>
+			<key>timeStoppedRecording</key>
+			<real>581453595.22420502</real>
+			<key>title</key>
+			<string>Build GTD</string>
+			<key>uniqueIdentifier</key>
+			<string>1D27C434-E5FE-4D9E-BD93-580729E8A1AB</string>
+		</dict>
+		<key>3169CC9B-FC52-4B72-A082-A4794CDA556D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3169CC9B-FC52-4B72-A082-A4794CDA556D.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GTD project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GTD</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GTD</string>
+			<key>timeStartedRecording</key>
+			<real>581449338.63453197</real>
+			<key>timeStoppedRecording</key>
+			<real>581449341.21811795</real>
+			<key>title</key>
+			<string>Build GTD</string>
+			<key>uniqueIdentifier</key>
+			<string>3169CC9B-FC52-4B72-A082-A4794CDA556D</string>
+		</dict>
+		<key>3788EBA5-A1B8-4CF6-862D-3EACE3F8E897</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3788EBA5-A1B8-4CF6-862D-3EACE3F8E897.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GTD project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GTD</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GTD</string>
+			<key>timeStartedRecording</key>
+			<real>581453472.45608604</real>
+			<key>timeStoppedRecording</key>
+			<real>581453472.53618598</real>
+			<key>title</key>
+			<string>Build GTD</string>
+			<key>uniqueIdentifier</key>
+			<string>3788EBA5-A1B8-4CF6-862D-3EACE3F8E897</string>
+		</dict>
+		<key>67BEEF6D-E73D-4F46-A824-8B9007DA6AD6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>67BEEF6D-E73D-4F46-A824-8B9007DA6AD6.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GTD project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GTD</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GTD</string>
+			<key>timeStartedRecording</key>
+			<real>581449569.63658404</real>
+			<key>timeStoppedRecording</key>
+			<real>581449570.721789</real>
+			<key>title</key>
+			<string>Build GTD</string>
+			<key>uniqueIdentifier</key>
+			<string>67BEEF6D-E73D-4F46-A824-8B9007DA6AD6</string>
+		</dict>
+		<key>946D43D4-E019-45D3-8BEE-A17B60EBE4C4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>946D43D4-E019-45D3-8BEE-A17B60EBE4C4.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GTD project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GTD</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GTD</string>
+			<key>timeStartedRecording</key>
+			<real>581453268.63896096</real>
+			<key>timeStoppedRecording</key>
+			<real>581453268.72099602</real>
+			<key>title</key>
+			<string>Build GTD</string>
+			<key>uniqueIdentifier</key>
+			<string>946D43D4-E019-45D3-8BEE-A17B60EBE4C4</string>
+		</dict>
+		<key>C74741C6-F89C-4328-AA90-5FD6E43D5405</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C74741C6-F89C-4328-AA90-5FD6E43D5405.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GTD project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GTD</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GTD</string>
+			<key>timeStartedRecording</key>
+			<real>581453201.76730096</real>
+			<key>timeStoppedRecording</key>
+			<real>581453203.31134903</real>
+			<key>title</key>
+			<string>Build GTD</string>
+			<key>uniqueIdentifier</key>
+			<string>C74741C6-F89C-4328-AA90-5FD6E43D5405</string>
+		</dict>
+		<key>D0ACC542-BF1D-4B1A-8BAF-0526EFF77317</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D0ACC542-BF1D-4B1A-8BAF-0526EFF77317.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GTD project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GTD</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GTD</string>
+			<key>timeStartedRecording</key>
+			<real>581454203.767156</real>
+			<key>timeStoppedRecording</key>
+			<real>581454205.53392899</real>
+			<key>title</key>
+			<string>Build GTD</string>
+			<key>uniqueIdentifier</key>
+			<string>D0ACC542-BF1D-4B1A-8BAF-0526EFF77317</string>
+		</dict>
+		<key>D16D45F9-96E1-4127-BB46-F33DB68D612E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D16D45F9-96E1-4127-BB46-F33DB68D612E.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GTD project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GTD</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GTD</string>
+			<key>timeStartedRecording</key>
+			<real>581453512.48665202</real>
+			<key>timeStoppedRecording</key>
+			<real>581453513.687801</real>
+			<key>title</key>
+			<string>Build GTD</string>
+			<key>uniqueIdentifier</key>
+			<string>D16D45F9-96E1-4127-BB46-F33DB68D612E</string>
+		</dict>
+		<key>E00C347C-9DC2-42CD-869F-EA345235328B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E00C347C-9DC2-42CD-869F-EA345235328B.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GTD project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GTD</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GTD</string>
+			<key>timeStartedRecording</key>
+			<real>581453824.39730799</real>
+			<key>timeStoppedRecording</key>
+			<real>581453826.70566404</real>
+			<key>title</key>
+			<string>Build GTD</string>
+			<key>uniqueIdentifier</key>
+			<string>E00C347C-9DC2-42CD-869F-EA345235328B</string>
+		</dict>
+		<key>F71FD314-D4A2-40F9-ABFD-7AB05588CCB2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F71FD314-D4A2-40F9-ABFD-7AB05588CCB2.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GTD project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GTD</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GTD</string>
+			<key>timeStartedRecording</key>
+			<real>581453790.52467895</real>
+			<key>timeStoppedRecording</key>
+			<real>581453792.84879696</real>
+			<key>title</key>
+			<string>Build GTD</string>
+			<key>uniqueIdentifier</key>
+			<string>F71FD314-D4A2-40F9-ABFD-7AB05588CCB2</string>
+		</dict>
+		<key>FB89BCCD-4EB5-4246-884A-ACC813649B27</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FB89BCCD-4EB5-4246-884A-ACC813649B27.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GTD project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GTD</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GTD</string>
+			<key>timeStartedRecording</key>
+			<real>581449460.69144201</real>
+			<key>timeStoppedRecording</key>
+			<real>581449463.52113795</real>
+			<key>title</key>
+			<string>Build GTD</string>
+			<key>uniqueIdentifier</key>
+			<string>FB89BCCD-4EB5-4246-884A-ACC813649B27</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
