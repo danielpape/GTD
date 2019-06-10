@@ -1,13 +1,17 @@
 ### Swift dependencies file v0 ###
 provides-top-level:
+- "ItemTableViewCell"
 - "TodoViewController"
 provides-nominal:
+- "3GTD17ItemTableViewCellC"
 - "3GTD18TodoViewControllerC"
 provides-member:
+- ["3GTD17ItemTableViewCellC", ""]
 - ["3GTD18TodoViewControllerC", ""]
 provides-dynamic-lookup:
 - "addButtonPressed"
 - "tableView"
+- "viewDidAppear"
 - "viewDidLoad"
 depends-top-level:
 - !private "!"
@@ -21,6 +25,7 @@ depends-top-level:
 - "IndexPath"
 - "Int"
 - !private "IntegerLiteralType"
+- "ItemTableViewCell"
 - "Items"
 - !private "NSFetchRequest"
 - !private "StringLiteralType"
@@ -53,6 +58,7 @@ depends-member:
 - !private ["SK", "row"]
 - !private ["SK", "subscript"]
 - ["So15CALayerDelegateP", "EditingStyle"]
+- ["So15CALayerDelegateP", ""]
 - !private ["So15CALayerDelegateP", "accessoryType"]
 - !private ["So15CALayerDelegateP", "deleteRows"]
 - !private ["So15CALayerDelegateP", "dequeueReusableCell"]
@@ -327,6 +333,8 @@ depends-member:
 - ["SH", "viewContext"]
 - !private ["SH", "viewDidLoad"]
 - !private ["10Foundation9IndexPathV", "row"]
+- ["3GTD17ItemTableViewCellC", "deinit"]
+- ["3GTD17ItemTableViewCellC", "init"]
 - !private ["3GTD5ItemsC", "completed"]
 - ["3GTD5ItemsC", "deinit"]
 - !private ["3GTD5ItemsC", "fetchRequest"]
@@ -446,6 +454,7 @@ depends-member:
 - !private ["So8NSObjectC", "text"]
 - !private ["So8NSObjectC", "textLabel"]
 - ["So8NSObjectC", "viewContext"]
+- ["So8NSObjectC", "viewDidAppear"]
 - ["So8NSObjectC", "viewDidLoad"]
 - ["So8NSObjectP", "EditingStyle"]
 - ["So8NSObjectP", "Items"]
@@ -542,8 +551,10 @@ depends-member:
 - !private ["3GTD18TodoViewControllerC", "print"]
 - ["3GTD18TodoViewControllerC", "saveItems"]
 - ["3GTD18TodoViewControllerC", "tableView"]
+- ["3GTD18TodoViewControllerC", "viewDidAppear"]
 - ["3GTD18TodoViewControllerC", "viewDidLoad"]
 - ["So29UIAccessibilityIdentificationP", "EditingStyle"]
+- ["So29UIAccessibilityIdentificationP", ""]
 - !private ["So29UIAccessibilityIdentificationP", "accessoryType"]
 - !private ["So29UIAccessibilityIdentificationP", "deleteRows"]
 - !private ["So29UIAccessibilityIdentificationP", "dequeueReusableCell"]
@@ -558,6 +569,7 @@ depends-member:
 - !private ["So17UIAlertControllerC", "addTextField"]
 - !private ["So17UIAlertControllerC", "init"]
 - ["So12UIAppearanceP", "EditingStyle"]
+- ["So12UIAppearanceP", ""]
 - !private ["So12UIAppearanceP", "accessoryType"]
 - !private ["So12UIAppearanceP", "deleteRows"]
 - !private ["So12UIAppearanceP", "dequeueReusableCell"]
@@ -618,6 +630,7 @@ depends-member:
 - !private ["So9UIControlC", "placeholder"]
 - !private ["So9UIControlC", "text"]
 - ["So17UICoordinateSpaceP", "EditingStyle"]
+- ["So17UICoordinateSpaceP", ""]
 - !private ["So17UICoordinateSpaceP", "accessoryType"]
 - !private ["So17UICoordinateSpaceP", "deleteRows"]
 - !private ["So17UICoordinateSpaceP", "dequeueReusableCell"]
@@ -632,6 +645,7 @@ depends-member:
 - !private ["So23UIDataSourceTranslatingP", "reloadData"]
 - !private ["So23UIDataSourceTranslatingP", "selectRow"]
 - ["So13UIDynamicItemP", "EditingStyle"]
+- ["So13UIDynamicItemP", ""]
 - !private ["So13UIDynamicItemP", "accessoryType"]
 - !private ["So13UIDynamicItemP", "deleteRows"]
 - !private ["So13UIDynamicItemP", "dequeueReusableCell"]
@@ -667,6 +681,7 @@ depends-member:
 - !private ["So18UIFocusEnvironmentP", "textLabel"]
 - !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
 - ["So11UIFocusItemP", "EditingStyle"]
+- ["So11UIFocusItemP", ""]
 - !private ["So11UIFocusItemP", "accessoryType"]
 - !private ["So11UIFocusItemP", "deleteRows"]
 - !private ["So11UIFocusItemP", "dequeueReusableCell"]
@@ -677,6 +692,7 @@ depends-member:
 - !private ["So11UIFocusItemP", "text"]
 - !private ["So11UIFocusItemP", "textLabel"]
 - ["So20UIFocusItemContainerP", "EditingStyle"]
+- ["So20UIFocusItemContainerP", ""]
 - !private ["So20UIFocusItemContainerP", "accessoryType"]
 - !private ["So20UIFocusItemContainerP", "deleteRows"]
 - !private ["So20UIFocusItemContainerP", "dequeueReusableCell"]
@@ -691,7 +707,9 @@ depends-member:
 - !private ["So30UIFocusItemScrollableContainerP", "reloadData"]
 - !private ["So30UIFocusItemScrollableContainerP", "selectRow"]
 - ["So27UIGestureRecognizerDelegateP", "EditingStyle"]
+- ["So27UIGestureRecognizerDelegateP", ""]
 - !private ["So27UIGestureRecognizerDelegateP", "accessoryType"]
+- !private ["So27UIGestureRecognizerDelegateP", "init"]
 - !private ["So27UIGestureRecognizerDelegateP", "textLabel"]
 - !private ["So10UIKeyInputP", "init"]
 - !private ["So10UIKeyInputP", "placeholder"]
@@ -761,6 +779,7 @@ depends-member:
 - ["So11UIResponderC", "tableView"]
 - !private ["So11UIResponderC", "text"]
 - !private ["So11UIResponderC", "textLabel"]
+- ["So11UIResponderC", "viewDidAppear"]
 - ["So11UIResponderC", "viewDidLoad"]
 - ["So30UIResponderStandardEditActionsP", "EditingStyle"]
 - ["So30UIResponderStandardEditActionsP", "Items"]
@@ -836,7 +855,9 @@ depends-member:
 - !private ["So11UITableViewC", "reloadData"]
 - !private ["So11UITableViewC", "selectRow"]
 - ["So15UITableViewCellC", "EditingStyle"]
+- ["So15UITableViewCellC", ""]
 - !private ["So15UITableViewCellC", "accessoryType"]
+- ["So15UITableViewCellC", "init"]
 - !private ["So15UITableViewCellC", "textLabel"]
 - ["So21UITableViewControllerC", "AppDelegate"]
 - ["So21UITableViewControllerC", "Bool"]
@@ -861,6 +882,7 @@ depends-member:
 - !private ["So21UITableViewControllerC", "print"]
 - ["So21UITableViewControllerC", "saveItems"]
 - ["So21UITableViewControllerC", "tableView"]
+- ["So21UITableViewControllerC", "viewDidAppear"]
 - ["So21UITableViewControllerC", "viewDidLoad"]
 - ["So21UITableViewDataSourceP", "Items"]
 - !private ["So21UITableViewDataSourceP", "UIAlertAction"]
@@ -965,7 +987,7 @@ depends-member:
 - !private ["So6UIViewC", "accessoryType"]
 - !private ["So6UIViewC", "deleteRows"]
 - !private ["So6UIViewC", "dequeueReusableCell"]
-- !private ["So6UIViewC", "init"]
+- ["So6UIViewC", "init"]
 - !private ["So6UIViewC", "placeholder"]
 - !private ["So6UIViewC", "reloadData"]
 - !private ["So6UIViewC", "selectRow"]
@@ -995,6 +1017,7 @@ depends-member:
 - !private ["So16UIViewControllerC", "print"]
 - ["So16UIViewControllerC", "saveItems"]
 - ["So16UIViewControllerC", "tableView"]
+- ["So16UIViewControllerC", "viewDidAppear"]
 - ["So16UIViewControllerC", "viewDidLoad"]
 - !private ["s14_ArrayProtocolP", "append"]
 - !private ["s14_ArrayProtocolP", "completed"]
@@ -1061,6 +1084,7 @@ depends-member:
 - !private ["s21_ObjectiveCBridgeableP", "row"]
 - !private ["s21_ObjectiveCBridgeableP", "subscript"]
 - ["s38__DefaultCustomPlaygroundQuickLookableP", "EditingStyle"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", ""]
 - !private ["s38__DefaultCustomPlaygroundQuickLookableP", "accessoryType"]
 - !private ["s38__DefaultCustomPlaygroundQuickLookableP", "deleteRows"]
 - !private ["s38__DefaultCustomPlaygroundQuickLookableP", "dequeueReusableCell"]
@@ -1094,6 +1118,7 @@ depends-nominal:
 - !private "s23ExpressibleByNilLiteralP"
 - "SH"
 - !private "10Foundation9IndexPathV"
+- "3GTD17ItemTableViewCellC"
 - "3GTD5ItemsC"
 - "SM"
 - "10Foundation19MutableDataProtocolP"
@@ -1197,4 +1222,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "5382668b28f02b1f1121d08748519904"
+interface-hash: "c3305cf918c05f72c959bde6ab3b5c0c"

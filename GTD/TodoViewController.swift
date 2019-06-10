@@ -9,6 +9,10 @@
 import UIKit
 import CoreData
 
+class ItemTableViewCell: UITableViewCell {
+    
+}
+
 class TodoViewController: UITableViewController {
     
     var items = [Items]()
@@ -18,6 +22,10 @@ class TodoViewController: UITableViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+    }
+    
+    override func viewDidAppear(_ animated: Bool) {
+        tableView.reloadData()
     }
     
     //MARK: Table View Datasource Methods:

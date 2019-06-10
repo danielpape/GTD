@@ -15,6 +15,7 @@
 		37D7F71B22A831A4002B765A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 37D7F71922A831A4002B765A /* LaunchScreen.storyboard */; };
 		37D7F72622A831A4002B765A /* GTDTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37D7F72522A831A4002B765A /* GTDTests.swift */; };
 		37D7F73122A831A4002B765A /* GTDUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37D7F73022A831A4002B765A /* GTDUITests.swift */; };
+		37D7F74122A98676002B765A /* AddItemViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37D7F74022A98676002B765A /* AddItemViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		37D7F72C22A831A4002B765A /* GTDUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GTDUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		37D7F73022A831A4002B765A /* GTDUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GTDUITests.swift; sourceTree = "<group>"; };
 		37D7F73222A831A4002B765A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		37D7F74022A98676002B765A /* AddItemViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddItemViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				37D7F71922A831A4002B765A /* LaunchScreen.storyboard */,
 				37D7F71C22A831A4002B765A /* Info.plist */,
 				37D7F71422A831A2002B765A /* GTD.xcdatamodeld */,
+				37D7F74022A98676002B765A /* AddItemViewController.swift */,
 			);
 			path = GTD;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				37D7F71622A831A2002B765A /* GTD.xcdatamodeld in Sources */,
+				37D7F74122A98676002B765A /* AddItemViewController.swift in Sources */,
 				37D7F71022A831A2002B765A /* TodoViewController.swift in Sources */,
 				37D7F70E22A831A2002B765A /* AppDelegate.swift in Sources */,
 			);
